@@ -1,6 +1,7 @@
 <div align="center">
 
   <h1>dark-plus-syntax</h1>
+  <h2>C:\Users\USER\.vscode\extensions\dunstontc.dark-plus-syntax-0.2.8\dist\theme</h2>
 
   <a href="https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax">
     <img alt="version" src="https://vsmarketplacebadge.apphb.com/version-short/dunstontc.dark-plus-syntax.svg?style=flat&color=blue" />
